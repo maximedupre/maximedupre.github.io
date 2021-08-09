@@ -1,5 +1,6 @@
 const path = require('path');
 const Image = require('@11ty/eleventy-img');
+const pageAssetsPlugin = require('eleventy-plugin-page-assets');
 
 (async () => {
     for (let i of [
@@ -24,6 +25,7 @@ const Image = require('@11ty/eleventy-img');
 })();
 
 module.exports = function (eleventyConfig) {
+    eleventyConfig.addPlugin(pageAssetsPlugin);
     eleventyConfig.addPassthroughCopy('src/fonts');
     eleventyConfig.addPassthroughCopy({
         'node_modules/@fortawesome/fontawesome-free/css/brands.min.css':

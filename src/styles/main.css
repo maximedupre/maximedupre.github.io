@@ -103,7 +103,7 @@
     }
 
     p {
-        @apply mb-2;
+        @apply my-3;
     }
 
     strong {
@@ -120,6 +120,11 @@
 
     img {
         height: inherit;
+        @apply rounded;
+    }
+
+    pre {
+        @apply my-5 p-2 border-t-4 border-5 overflow-auto bg-black text-white rounded;
     }
 
     .app-link {
