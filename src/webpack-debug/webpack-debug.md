@@ -78,4 +78,4 @@ Hope this helps 💪
 
 ### Want to leave a comment?
 
-Join the discussion at [Twitter](https://twitter.com/maximehugodupre). Feel free to drop me an [email](mailto:maximedupre@me.com). 💌
+Join the discussion at [Twitter](https://twitter.com/maximehugodupre/status/1424783409205940224). Feel free to drop me an [email](mailto:maximedupre@me.com). 💌
