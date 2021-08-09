@@ -934,11 +934,6 @@ pre {
   color: rgba(255, 255, 255, var(--tw-text-opacity));
 }
 
-.hover\:text-1:hover {
-  --tw-text-opacity: 1;
-  color: rgba(73, 88, 103, var(--tw-text-opacity));
-}
-
 *, ::before, ::after {
   --tw-shadow: 0 0 #0000;
 }
