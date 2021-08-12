@@ -655,6 +655,7 @@ h3 {
   line-height: 1.75rem;
   --tw-text-opacity: 1;
   color: rgba(87, 115, 153, var(--tw-text-opacity));
+  text-decoration: underline;
 }
 
 a {
