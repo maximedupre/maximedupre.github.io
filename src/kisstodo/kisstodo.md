@@ -124,4 +124,4 @@ Thanks for reading 🙏
 
 ## Want to leave a comment?
 
-Join the discussion at [Twitter](https://twitter.com/maximehugodupre/). Feel free to drop me an [email](mailto:maximedupre@me.com). 💌
+Join the discussion at [Twitter](https://twitter.com/maximehugodupre/status/1426201655800893441). Feel free to drop me an [email](mailto:maximedupre@me.com). 💌
